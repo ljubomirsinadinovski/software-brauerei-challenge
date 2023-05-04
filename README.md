@@ -13,8 +13,8 @@ To test your codes each challenge must match the following requirements:
 4. The output must be written to stdout. (Challenge 1- 3)
 
 ## Challenges
-1. [Array Split Challenge](./01-array-split/) [DONE in JS]
-2. [Find Missing Elements Challenge](./02-missing-elements/) [DONE in JS and partially JAVA]
+1. [Array Split Challenge](./01-array-split/) [DONE in JS and partially JAVA]
+2. [Find Missing Elements Challenge](./02-missing-elements/) [DONE]
 3. [Sorting Objects Challenge](./03-sorting-objects/) [DONE in JS]
 4. [Create a Spring Boot API](./04-create-a-spring-boot-api) [DONE]
 5. [Create a basic Frontend](./05-create-a-basic-frontend) [DONE]
